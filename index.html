@@ -52,13 +52,13 @@
 
         xAxis: {
           title: {
-            text: 'Median Household Income'  // EDIT to insert horizontal x-axis label
+            text: ''  // EDIT to insert horizontal x-axis label
           }
         },
 
         yAxis: {
           title: {
-            text: 'Grade Levels Above/Below Average'   // EDIT to insert vertical y-axis label
+            text: ''   // EDIT to insert vertical y-axis label
           }
         },
 
@@ -82,9 +82,9 @@
               point = this.point;
               // EDIT tooltip text labels below to match your data
               html = '<table>';
-              html += '<tr><th colspan="2"><h3>District: ' + point.name + '</h3></th></tr>';
-              html += '<tr><th>Median household income:</th><td>$' + comma(point.x) + '</td></tr>';
-              html += '<tr><th>Grades above/below average:</th><td>' + point.y + '</td></tr>';
+              html += '<tr><th colspan="2"><h3>Park: ' + point.name + '</h3></th></tr>';
+              html += '<tr><th>X:</th><td>' + comma(point.x) + '</td></tr>';
+              html += '<tr><th>Y:</th><td>' + point.y + '</td></tr>';
               html += '</table>';
 
               return html;
