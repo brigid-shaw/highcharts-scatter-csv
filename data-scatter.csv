@@ -1,1 +1,60 @@
-﻿income,grades,district88438,1.7,Andover45505,-0.4,Ansonia75127,0.5,Ashford115571,2.6,Avon89911,1.4,Barkhamsted87432,1.5,Berlin100083,1.5,Bethany85589,1.7,Bethel73104,-0.5,Bloomfield86890,1.6,Bolton78580,0.9,Bozrah70785,1.1,Branford41050,-1.7,Bridgeport57610,0.3,Bristol107537,1.8,Brookfield59262,0.5,Brooklyn73038,1,Canterbury87891,1.9,Canton75368,0.1,Chaplin111638,2,Cheshire74911,1.7,Chester71599,1,Clinton96774,1.2,Colchester79667,1.5,Colebrook90725,1,Columbia93816,1.1,Coventry75859,1.2,Cromwell64969,0,Danbury205688,2.6,Darien71500,1.4,Deep River53098,-0.8,Derby71250,1.6,East Granby89615,1.1,East Haddam94747,1.2,East Hampton50400,-1.4,East Hartford63673,-0.5,East Haven78257,1.9,East Lyme72785,0,East Windsor83015,1.5,Eastford150000,2.4,Easton84699,1.5,Ellington67191,0.7,Enfield86298,1.8,Essex117705,2,Fairfield88935,2.4,Farmington89643,1.6,Franklin106678,2,Glastonbury97894,2.3,Granby132164,2,Greenwich59387,0.1,Griswold60684,0.3,Groton96151,2.3,Guilford68794,0,Hamden74559,0,Hampton29430,-1.7,Hartford88362,1.9,Hartland111792,2,Hebron57205,0,Killingly83651,0.9,Lebanon87518,1.3,Ledyard80129,0.4,Lisbon86801,1.6,Litchfield110761,2.3,Madison63274,-0.1,Manchester66143,1.7,Mansfield110694,2.1,Marlborough52590,-0.9,Meriden59994,0.1,Middletown80460,1,Milford103589,1.9,Monroe68298,0.4,Montville59056,-0.3,Naugatuck40294,-2.4,New Britain161848,2.7,New Canaan103100,1.3,New Fairfield86354,2,New Hartford37428,-1.3,New Haven43307,-1.5,New London80792,0.7,New Milford77368,1.1,Newington109159,2.3,Newtown71538,1.1,Norfolk84783,0.7,North Branford86250,0.9,North Haven82900,1.1,North Stonington74728,0.1,Norwalk48597,-0.9,Norwich75549,1.4,Old Saybrook106942,2.1,Orange102167,1.2,Oxford62708,0.1,Plainfield60630,0.8,Plainville70273,0.3,Plymouth84918,1.4,Pomfret88693,1.5,Portland74141,1,Preston46627,-0.5,Putnam119112,2.4,Redding88260,0.9,Regional School District 0697262,1.5,Regional School District 1086095,1.6,Regional School District 12110472,1.2,Regional School District 1382734,1.3,Regional School District 1484761,1.8,Regional School District 1591715,0.8,Regional School District 16103292,1.8,Regional School District 1786339,1.9,Regional School District 18147993,2.6,Ridgefield77560,1.5,Rocky Hill100625,1.8,Salem68094,1.8,Salisbury78250,0.6,Scotland75426,0.7,Seymour86138,1.2,Shelton112344,1.5,Sherman115000,2.5,Simsbury98846,1.1,Somers90499,1.6,South Windsor80029,1.6,Southington61959,1,Stafford76779,0,Stamford68833,0,Sterling81026,1,Stonington66361,0.5,Stratford92737,1.7,Suffield76692,0.6,Thomaston64974,0.1,Thompson103869,1.7,Tolland51951,0.2,Torrington108854,2.1,Trumbull61038,0.1,Vernon75938,0.9,Voluntown75346,0.8,Wallingford40639,-1.3,Waterbury73156,1.3,Waterford80067,0.5,Watertown82322,1.5,West Hartford52353,-0.6,West Haven62832,1.2,Westbrook207262,2.4,Weston160106,2.6,Westport77740,1.1,Wethersfield72011,0.8,Willington167094,2.5,Wilton58458,-0.2,Winchester41639,-2,Windham79528,0.1,Windsor66583,0.1,Windsor Locks83993,1.6,Wolcott138082,2.6,Woodbridge77366,1.2,Woodstock
+Area (acres),Recreation visitors (2016),Name
+48995.91,3303393,Acadia
+8256.67,28892,American Samoa
+76678.98,1585718,Arches
+242755.94,996263,Badlands
+801163.21,388290,Big Bend
+172971.11,514709,Biscayne
+30749.75,238018,Black Canyon of the Gunnison
+35835.08,2365110,Bryce Canyon
+337597.83,776218,Canyonlands
+241904.26,1064904,Capitol Reef
+46766.45,466773,Carlsbad Caverns
+249561,364807,Channel Islands
+26275.82,143843,Congaree
+183224.05,756344,Crater Lake
+32950,2423390,Cuyahoga Valley
+3373063.14,1296283,Death Valley
+4740911.16,587412,Denali
+64701.22,73661,Dry Tortugas
+1508975.57,930907,Everglades
+7523897.45,10047,Gates of the Arctic
+1013324.23,2946681,Glacier
+3223383.43,520171,Glacier Bay
+1201647.03,5969811,Grand Canyon
+310043.96,3270076,Grand Teton
+77180,144846,Great Basin
+107301.87,388308,Great Sand Dunes
+522426.88,11312786,Great Smoky Mountains
+86367.1,181839,Guadalupe Mountains
+33264.62,1263558,HaleakalÄ
+323431.38,1887580,Hawaii Volcanoes
+5549.1,1544300,Hot Springs
+571790.11,24966,Isle Royale
+790635.74,2505286,Joshua Tree
+3674368.02,37818,Katmai
+669983.65,346534,Kenai Fjords
+461901.2,607479,Kings Canyon
+1750716.16,15500,Kobuk Valley
+2619836.49,21102,Lake Clark
+106589.02,536068,Lassen Volcanic
+52830.19,586514,Mammoth Cave
+52485.17,583527,Mesa Verde
+236381.49,1356913,Mount Rainier
+504780.94,28646,North Cascades
+922650.1,3390221,Olympic
+221415.74,643274,Petrified Forest
+26685.73,215555,Pinnacles
+138999.37,536297,Redwood
+265795.2,4517585,Rocky Mountain
+91442.42,820426,Saguaro
+404062.63,1254688,Sequoia
+199116.92,1437341,Shenandoah
+70446.89,753880,Theodore Roosevelt
+14948.46,411343,Virgin Islands
+218200.15,241912,Voyageurs
+33923.68,617377,Wind Cave
+8323146.48,79047,Wrangellâ€“â€‹St. Elias
+2219790.71,4257177,Yellowstone
+761347.5,5028868,Yosemite
+147237.02,4295127,Zion
